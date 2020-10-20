@@ -4,5 +4,5 @@
 
 layout: home-blog
 title: "Blog"
-category: b
+# category: 
 ---
