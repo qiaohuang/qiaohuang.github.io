@@ -18,22 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Math Towards Data Science
-email: qiaohuang.ds@gmail.com
+title: uniQiao
+email: hi@uniqiao.com
 description: >- # this means to ignore newlines until "baseurl:"
-  By three methods we may learn wisdom: First, by reflection, which is noblest;
-  Second, by imitation, which is easiest; and third by experience, which is the
-  bitterest. — Confucius
+  Math Towards Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  qiaohuang
-twitter_username: qiaohuang_
+# twitter_username: qiaohuang_
 
 author: Qiao Huang
 telegram_username: qiaohuang
-# linkedin_username: qiaohuang
-# youtube_username: qiaohuang
 
 copyright: "uniQiao"
 # Ideally, image is 50px high and takes up minima horizontal space.
@@ -45,7 +41,7 @@ title-logo: /images/title-logo.png
 # theme: minima
 plugins:
   - jekyll-feed
-#  - jekyll-seo-tag
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
