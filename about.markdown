@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![doodle](/images/doodle.png "doodle")
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I hold a Bachelor of Science degree in Mathematics and Applied Mathematics.
+My thesis research interest was stock analysis and forecasting.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+During the last year at university, I taught myself Economics systematically
+and had exposure to Quantitative analysis. To complete my bachelor thesis,
+I started learning Python and Machine Learning through online resources.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Therefore, I entered the Data Science world!
