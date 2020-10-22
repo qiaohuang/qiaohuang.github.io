@@ -37,6 +37,7 @@ copyright: "uniQiao"
 title-logo: /images/title-logo.png
 
 # Build settings
+markdown: kramdown
 # Removed minima theme
 # theme: minima
 plugins:
