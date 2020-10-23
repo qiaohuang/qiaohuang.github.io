@@ -65,3 +65,10 @@ google_analytics: UA-181018967-1
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# staticman (comments) configuration
+staticman_url: https://uniqiao-staticman.herokuapp.com/v2/entry/qiaohuang/qiaohuang.github.io/master/comments
+
+reCaptcha:
+  siteKey: 6LccbNoZAAAAAJ11Pky9nuEcTeAXNP7n_Fk2HvsQ
+  secret: qNZuqZMovBO5GnIrYJ5gLWW7LMIJYd+K7LYPO03aXOMdm+MgeKlpv5S+6CguBDyZoMvbR//3Bb9pwEAOaOwaOYMh2ZeltBSz0v1UP6GxvcoxvWZUKK0bW5SdY56ue6LV6eG2pLu3S8Ugl03uamOBhoWPj/h9kY4ZIHvLDhFQwr3FKVTZ9/OiWcltIlzVSU2J4I6bx+dRIZYq0feJCFBIi9m/NWYO6IOlwYmTwourSrbxVbHqTwtSjkTqEMLqMJxZJs9AdYiMT6npbn5MrPp6WVMu3aH4l3nQ8Ano82S/ThPqBxuWuS4Mcvpze50dcSmp+Rs4E2iV8ACtjfys8T3aslqOPV3r+3enQTxwKdMuT6fqCOM/3YeanFodNKmeqq2rMWe8xSnvkAQ2XVjYzCqlYDkOa9Fws2kpVn1yh2RkCcxWSx06NbzkdddxbzmW3/o2yGkVRPUqKF7yHp4EP7mIlX0+jGEDx9eaI+py4IThZAUf//77Y3ylvWfpGyNWR2UeigQ21gjIt3cSOC6U0Q6U6c1Wkkv/0HazxPAFY5ZdQdO+kcQqN5fMCEEORqgmhTY+a4XLsGc/e53C419qXx+DNlMO+5rs6NU5KF/YCYLmed1LVV6Ti5pkTuczZ/+5V3uhyQNmUidMC+Aju6jImGlFla+PPO9qAvnUamg1t5upIjw=
