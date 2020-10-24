@@ -6,11 +6,30 @@ comments: true
 ---
 Post to try the features out.
 
-### Playground
+## Playground
 
-{% highlight python %}
-x = ('a', 1, False)
-{% endhighlight %}
+$\Pi$
+
+$\LaTeX{}$
+
+$ \int\_a^b f(x)\,dx. $
+
+This is an HTML
+example.
+
+*[HTML]: Hyper Text Markup Language
+
+This is a text with a
+footnote[^1].
+
+[^1]:
+    And here is the definition.
+
+    > With a quote!
+
+|               | Test Rejects Null | Test Fails to Reject Null |
+| Null is True  | <span style="color: red">Type I Error</span>  | <span style="color: green">Correct decision</span> |
+| Null is False | <span style="color: green">Correct decision</span> | <span style="color: red">Type II Error</span> |
 
 {% highlight ruby %}
 def print_hi(name)
@@ -19,10 +38,6 @@ end
 print_hi('Qiao')
 #=> prints 'Hi, Qiao' to STDOUT.
 {% endhighlight %}
-
-$$ P(o|c) = \frac{\exp (u_o^Tv_c)}{\sum_{w\in V}\exp(u_w^Tv_c)} $$
-
-$$ J=-\log(\sigma(u_o^Tv_c)) - \sum_{k=1}^K\mathbb{E}_{k\sim P(w)}\log(\sigma(-u_k^Tv_c)) $$
 
 ### Comments
 
