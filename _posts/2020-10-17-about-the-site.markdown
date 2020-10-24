@@ -6,8 +6,6 @@ categories: About site
 permalink: /about/site
 comments: true
 ---
-🤗
-
 ![Welcome to uniQiao](/images/welcome.svg "Free to explore")
 
 ## What I talk about?
