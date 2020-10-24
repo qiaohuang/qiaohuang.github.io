@@ -6,7 +6,8 @@ layout: home
 ---
 Hi there, my name is Qiao Huang.
 
-I have a background in math and an interest in data science. I'm currently working towards
-becoming a full-stack data scientist.
+I have a background in math and an interest in data science.
 
-Here's more information [about me](/about.markdown).
+I'm currently working towards becoming a full-stack data scientist.
+
+Here's more information __[about me](/about.markdown)__.

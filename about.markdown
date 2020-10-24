@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![doodle](/images/doodle.png "doodle")
+![doodle](/images/doodle.png "As the doodle shows, I'm a quiet boy")
 
 I hold a Bachelor of Science degree in Mathematics and Applied Mathematics.
 My thesis research interest was stock analysis and forecasting.
@@ -14,3 +14,5 @@ and had exposure to Quantitative analysis. To complete my bachelor thesis,
 I started learning Python and Machine Learning through online resources.
 
 Therefore, I entered the Data Science world!
+
+__[About the site](/about/site)__
