@@ -22,6 +22,6 @@ This site is in a repository at [GitHub](https://github.com/qiaohuang/qiaohuang.
 
 I write articles in Jekyll's [kramdown](https://kramdown.gettalong.org/) and render equations by [MathJax](https://www.mathjax.org/).
 
-Wherever possible, I will use the `.svg` graphic format for images since the nice display on different screen sizes.
+Wherever possible, I will use the `.svg` graphic format for images (like the `GIF` above) since the nice display on different screen sizes.
 
 Thanks for reading. More articles to come soon!🚀
