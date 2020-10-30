@@ -9,7 +9,7 @@ A year or so ago, I received my introduction to machine learning thanks to my su
 
 As the name implies, it is a tree that assists us in making decisions. The algorithm belongs to the family of [supervised learning algorithms](https://en.wikipedia.org/wiki/Supervised_learning). However, unlike other supervised learning algorithms, it is applicable for both [classification](https://en.wikipedia.org/wiki/Classification_(general_theory)) and [regression](https://en.wikipedia.org/wiki/Regression_analysis).
 
-![By Gilgoldm - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90405437](/blog/assets/images/Decision_tree.jpg)
+![By Gilgoldm - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90405437](/blog/assets/images/Decision_Tree.jpg)
 
 As the famous [Titanic Decision tree](https://en.wikipedia.org/wiki/Decision_tree_learning#/media/File:Decision_Tree.jpg) shows above ("sibsp" is the number of spouses or siblings aboard), the basic structure of a decision tree contains a *root node*, several *interior nodes*, and the final *leaf nodes*.
 
