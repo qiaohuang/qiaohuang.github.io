@@ -11,7 +11,7 @@ comments: true
 ## What I talk about?
 I use this site to update my journey to becoming a data scientist.
 
-Topics will include but are not limited to, __Statistics__, __Programming__, and __Personal Experience__. I will explain the math concepts at the level of an undergraduate. As a new coder, I will also share a lot of __Learning Resources__ carefully chosen! You can subscribe `via RSS` to keep the site up to date automatically with the Posts. For macOS, I recommend [Vienna](https://www.vienna-rss.com/), and [QuiteRSS](https://quiterss.org/) is the alternative for Windows.
+Topics will include but are not limited to, Statistics, Programming, and Personal Experience. I will explain the math concepts at the level of an undergraduate. As a new entrant and a dedicated lifelong learner, I will also share a lot of __[Learning Resources](/resources)__ carefully chosen! You can subscribe `via RSS` to keep the site up to date automatically with the Posts. For macOS, I recommend [Vienna](https://www.vienna-rss.com/), and [QuiteRSS](https://quiterss.org/) is the alternative for Windows.
 
 ## How I build this?
 _uniQiao.com_ is a static web site. I make it responsive to comments and discussion by using [Staticman](https://staticman.net/), with protection from robots provided by [reCAPTCHA](https://www.google.com/recaptcha/about).
