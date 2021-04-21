@@ -16,7 +16,7 @@ Topics will include but are not limited to, Statistics, Programming, and Persona
 
 ## How I built this?
 
-_uniQiao.com_ is a static web site. I make it responsive to comments and discussion by using [Staticman](https://staticman.net/), with protection from robots provided by [reCAPTCHA](https://www.google.com/recaptcha/about).
+_uniQiao.com_ is a static web site. I make it responsive to comments and discussion by using [Staticman](https://staticman.net/) hosted on [Heroku](https://www.heroku.com/), with protection from robots provided by [reCAPTCHA](https://www.google.com/recaptcha/about).
 
 I host the domain name at _namesilo.com_.
 
@@ -32,11 +32,21 @@ The [[everything feed](/feed.xml)] is for, well, everything.
 
 For separate feed, you can get only [[blog feed](/blog/feed.xml)], and [[projects feed](/projects/feed.xml)].
 
-For macOS, I recommend [Vienna](https://www.vienna-rss.com/), and [QuiteRSS](https://quiterss.org/) is the alternative for Windows.
+For macOS users, I recommend [Vienna](https://www.vienna-rss.com/), and [QuiteRSS](https://quiterss.org/) is the alternative for Windows.
 
 ## Corrections
 
-If you see any mistakes or want to suggest any changes, please create an [issue](https://github.com/qiaohuang/qiaohuang.github.io/issues/new) in the source repository or comment here. ([How comments work?](/blog/2020/10/18/post-for-test.html#comments))
+If you see any mistakes or want to suggest any changes, please create an [issue](https://github.com/qiaohuang/qiaohuang.github.io/issues/new) in the source repo or comment here. ([How comments work?](/test#comments))
+
+## Change Log
+
+In the spirit of an open redesign, I'm constantly tweaking and changing, here is my log.
+
+- 2021-04-20 · Update Posts. Add Change Log.
+- 2020-10-23 · Now with Comments! Add Staticman at Heroku.
+- 2020-10-21 · Complete Categorization. Add blog and projects categories, with separate feed.
+- 2020-10-19 · Complete Customization. Add title logo, favicon, and social icons.
+- 2020-10-17 · A Site Appears! My tiny corner of the Internet.
 
 <br>
 

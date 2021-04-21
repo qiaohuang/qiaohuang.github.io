@@ -1,33 +1,29 @@
 ---
 layout: post
 title: "Post for Test"
-category: Blog
+categories: Test
+permalink: /test
 comments: true
 ---
+
 Post to try the features out.
 
 ## Playground
 
-$\Pi$
+This is a $\LaTeX{}$ formula.
 
-$\LaTeX{}$
-
-$ \int\_a^b f(x)\,dx. $
-
-This is an HTML
-example.
+This is an HTML example.
 
 *[HTML]: Hyper Text Markup Language
 
-This is a text with a
-footnote[^1].
+This is a text with a footnote[^1].
 
 [^1]:
     And here is the definition.
 
     > With a quote!
 
-|               | Test Rejects Null | Test Fails to Reject Null |
+| **Hypothesis Testing** | Test Rejects Null | Test Fails to Reject Null |
 | Null is True  | <span style="color: red">Type I Error</span>  | <span style="color: green">Correct decision</span> |
 | Null is False | <span style="color: green">Correct decision</span> | <span style="color: red">Type II Error</span> |
 

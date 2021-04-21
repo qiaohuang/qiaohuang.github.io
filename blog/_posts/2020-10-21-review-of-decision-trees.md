@@ -2,7 +2,9 @@
 layout: post
 title: "Review of Decision Trees"
 category: Blog
+comments: true
 ---
+
 A year or so ago, I received my introduction to machine learning thanks to my supervisor. My first model was a decision tree since it is the most popular machine learning algorithm due to simplicity and easy to realize. Now I'm back in machine learning, and this post is a brief review of Decision Trees.
 
 ## Introduction
@@ -32,21 +34,6 @@ As the famous [Titanic Decision tree](https://en.wikipedia.org/wiki/Decision_tre
 ## Principle
 
 Consider an example dataset.
-
-```python
-import pandas as pd
-
-data = pd.DataFrame({"Temperature":["hot","hot","hot","cool","cool","mild","cool","mild","mild","mild","hot","mild","cool","mild"],
-                    "Outlook":["sunny","sunny","overcast","rain","overcast","sunny","sunny","rain","sunny","overcast","overcast","rain","rain","rain"],
-                    "Humidity":["high","high","high","normal","normal","high","normal","normal","normal","high","normal","high","normal","high"],
-                    "Windy":["false","true","false","false","true","false","false","false","true","true","false","true","true","false"],
-                    "Play Golf?":["no","no","yes","yes","yes","no","yes","yes","yes","yes","yes","no","no","yes"]},
-                   columns=["Temperature","Outlook","Humidity","Windy","Play Golf?"])
-features = data[["Temperature","Outlook","Humidity","Windy"]]
-target = data["Play Golf?"]
-
-data
-```
 
 |    | Temperature | Outlook  | Humidity | Windy | Play Golf? |
 | -  | ----------- | -------- | -------- | ----- | ---------- |
@@ -115,7 +102,7 @@ To build the tree, we need to calculate the information gain of each possible fi
 
 ## Algorithm
 
-Invented by Ross Quinlan in 1986, the ID3 (Iterative Dichotomiser 3) is an algorithm used to generate a decision tree from a dataset. Besides the ID3 algorithm, there are other popular algorithms like the [C4.5](https://en.wikipedia.org/wiki/C4.5_algorithm), the [C5.0](https://en.wikipedia.org/wiki/C5.0_algorithm), and the [CART](https://en.wikipedia.org/wiki/Predictive_analytics#Classification_and_regression_trees_.28CART.29) algorithm. We won't go into details here.
+Invented by Ross Quinlan in 1986, the [ID3](https://en.wikipedia.org/wiki/ID3) (Iterative Dichotomiser 3) is an algorithm used to generate a decision tree from a dataset. Besides the ID3 algorithm, there are other popular algorithms like the [C4.5](https://en.wikipedia.org/wiki/C4.5_algorithm), the [C5.0](https://en.wikipedia.org/wiki/C5.0_algorithm), and the [CART](https://en.wikipedia.org/wiki/Predictive_analytics#Classification_and_regression_trees_.28CART.29) algorithm. We won't go into details here.
 
 We now introduce the ID3 algorithm through pseudocode:
 
@@ -141,31 +128,30 @@ ID3 (Examples, Target_Attribute, Attributes)
 
 For R users, there are multiple packages available to implement a decision tree such as ctree and rpart.
 
-```R
-> library(rpart)
-> x <- cbind(x_train,y_train)
-# grow tree 
-> fit <- rpart(y_train ~ ., data = x,method="class")
-> summary(fit)
-#Predict Output 
-> predicted= predict(fit,x_test)
+```r
+library(rpart)
+x <- cbind(x_train, y_train)
+# Grow tree
+fit <- rpart(y_train ~ ., data = x, method="class")
+summary(fit)
+# Predict output
+predicted = predict(fit, x_test)
 ```
 
 For Python users, below is the code:
 
 ```python
-#Import Library
-#Import other necessary libraries like pandas, numpy...
+# Import necessary libraries like pandas, numpy...
 from sklearn import tree
-#Assumed you have, X (predictor) and Y (target) for training data set and x_test(predictor) of test_dataset
-# Create tree object 
-model = tree.DecisionTreeClassifier(criterion='gini') # for classification, here you can change the algorithm as gini or entropy (information gain) by default it is gini  
+# Create tree object
+model = tree.DecisionTreeClassifier(criterion='gini') # for classification
+# Here you can change the algorithm as gini or entropy (information gain), by default it is gini
 # model = tree.DecisionTreeRegressor() for regression
 # Train the model using the training sets and check score
 model.fit(X, y)
 model.score(X, y)
-#Predict Output
-predicted= model.predict(x_test)
+# Predict Output
+predicted = model.predict(x_test)
 ```
 
 ## Extension
@@ -176,7 +162,7 @@ Decision trees have many advantages, such as simple to understand and interpret,
 
 Despite decision tree learning is an old method, the more recent tree-based models including [Random forest](https://en.wikipedia.org/wiki/Random_forest) (bagging), [Gradient boosting](https://en.wikipedia.org/wiki/Gradient_boosting) (boosting), and [XGBoost](https://en.wikipedia.org/wiki/XGBoost) (boosting), are built on the top of decision tree algorithms. Such ensemble models have proven themselves to be more powerful. Therefore, a thorough understanding of decision trees is very helpful in building a good foundation for learning machine learning and data science.
 
-## References:
+## References
 - A. Renyi (1961), [On Measures of Entropy and Information](http://projecteuclid.org/euclid.bsmsp/1200512181), *Proc. of the Fourth Berkeley Symposium on Mathematical Statistics and Probability*, vol. 1, 547-561.
 - <https://en.wikipedia.org/wiki/Decision_tree_learning>
 - <https://www.python-course.eu/Decision_Trees.php>

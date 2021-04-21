@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "My Learning Resources"
-date:   2020-10-18 06:54:25 -0700
-categories: Resources
+category: Projects
 permalink: /resources
 comments: true
 ---
+
 My favorite learning resources, mostly free and carefully chosen! 🎁
 
 > I'd recommend you give a try to the resources and find the best one to stick with – it's up to you.
