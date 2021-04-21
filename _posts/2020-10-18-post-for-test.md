@@ -23,6 +23,9 @@ This is a text with a footnote[^1].
 
     > With a quote!
 
+{: .box-note}
+This is a note box.
+
 | **Hypothesis Testing** | Test Rejects Null | Test Fails to Reject Null |
 | Null is True  | <span style="color: red">Type I Error</span>  | <span style="color: green">Correct decision</span> |
 | Null is False | <span style="color: green">Correct decision</span> | <span style="color: red">Type II Error</span> |
