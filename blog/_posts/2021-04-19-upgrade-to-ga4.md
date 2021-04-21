@@ -32,7 +32,7 @@ Google Analytics announced [a new way to measure apps and websites together](htt
 
 ### Add your tag directly to your web pages
 
-- Copy the entire Analytics page tag into the `<head>` section of your HTML. It should look like [this](https://github.com/qiaohuang/qiaohuang.github.io/blob/master/_includes/google-analytics.html).
+- Copy the entire Analytics page tag into the `<head>` section of your HTML. It should look like [this](https://github.com/qiaohuang/qiaohuang.github.io/blob/master/_includes/google-analytics.html "This link takes you to my google-analytics source code").
 
 ```javascript
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -48,9 +48,8 @@ Google Analytics announced [a new way to measure apps and websites together](htt
 
 The `gtag.js` tag that you added will collect data for your new GA4 property, which is linked to your Universal Analytics property. You now run the UA & GA4 in Parallel!
 
-<span style="color: red">
+{: .box-warning}
 Note: Don't remove the old `analytics.js` tag. It will continue to collect data for your Universal Analytics property.
-</span>
 
 ## Postscript
 
