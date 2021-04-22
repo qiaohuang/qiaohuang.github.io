@@ -49,7 +49,7 @@ Google Analytics announced [a new way to measure apps and websites together](htt
 The `gtag.js` tag that you added will collect data for your new GA4 property, which is linked to your Universal Analytics property. You now run the UA & GA4 in Parallel!
 
 {: .box-warning}
-Note: Don't remove the old `analytics.js` tag. It will continue to collect data for your Universal Analytics property.
+Warning: Don't remove the old `analytics.js` tag. It will continue to collect data for your Universal Analytics property.
 
 ## Postscript
 
