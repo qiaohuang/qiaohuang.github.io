@@ -36,7 +36,7 @@ As the famous [Titanic Decision tree](https://en.wikipedia.org/wiki/Decision_tre
 Consider an example dataset.
 
 |    | Temperature | Outlook  | Humidity | Windy | Play Golf? |
-| -  | ----------- | -------- | -------- | ----- | ---------- |
+| -  | ----------: | -------: | -------: | ----: | ---------: |
 | 0  | hot         | sunny    | high     | false | no         |
 | 1  | hot         | sunny    | high     | true  | no         |
 | 2  | hot         | overcast | high     | false | yes        |
