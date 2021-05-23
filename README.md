@@ -1,5 +1,10 @@
 # qiaohuang.github.io
+
 Redirect to www.uniqiao.com
+
+## Style
+
+[Style guide for English writing](https://github.com/qiaohuang/English-Writing-Style)
 
 ## License
 
