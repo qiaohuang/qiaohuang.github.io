@@ -4,7 +4,7 @@ title: "Upgrade to Google Analytics 4"
 category: Blog
 comments: true
 ---
-I just upgraded to Google Analytics 4 – the future of analytics! 🔮
+I just upgraded to Google Analytics 4 — the future of analytics! 🔮
 
 In this post, I'll share a little of my experience.
 
@@ -14,8 +14,8 @@ Google Analytics announced [a new way to measure apps and websites together](htt
 
 ## Prerequisites
 
-- A Google Analytics Account - Log in to Google account and go to <https://analytics.google.com/>
-- A Universal Analytics Property - [Set up Analytics for a website](https://support.google.com/analytics/answer/10269537)
+- A Google Analytics Account — Log in to Google account and go to <https://analytics.google.com/>
+- A Universal Analytics Property — [Set up Analytics for a website](https://support.google.com/analytics/answer/10269537)
 
 ## Upgrade
 

@@ -54,4 +54,4 @@ In the spirit of an open redesign, I'm constantly tweaking and changing, here is
 
 <br>
 
-Thanks for reading. More articles to come soon!🚀
+Thanks for reading. More articles to come soon! 🚀
