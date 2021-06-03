@@ -9,7 +9,7 @@ comments: true
 ![Welcome to uniQiao](/images/welcome.svg "Free to explore")
 
 <span style="color: gray">Welcome to uniQiao!  
-Site name stands for "unique" Qiao, or any "uni-" words you think.</span>
+Site name stands for "unique" Qiao, or any "uni-" words you think. :)</span>
 
 ## What I talk about?
 
@@ -33,7 +33,7 @@ Wherever possible, I will use the `.svg` graphic format for images (like the `GI
 
 The [[everything feed](/feed.xml)] is for, well, everything.
 
-For separate feed, you can get only [[blog feed](/blog/feed.xml)], and [[projects feed](/projects/feed.xml)].
+For separate feed, you can get only [`blog feed`](/blog/feed.xml), and [`projects feed`](/projects/feed.xml).
 
 For macOS users, I recommend [Vienna](https://www.vienna-rss.com/), and [QuiteRSS](https://quiterss.org/) is the alternative for Windows.
 
@@ -41,9 +41,9 @@ For macOS users, I recommend [Vienna](https://www.vienna-rss.com/), and [QuiteRS
 
 If you see any mistakes or want to suggest any changes, please create an [issue](https://github.com/qiaohuang/qiaohuang.github.io/issues/new) in the source repo or comment here. ([How comments work?](/test#comments))
 
-## Change Log
+## Changelog
 
-In the spirit of an open redesign, I'm constantly tweaking and changing, here is my log.
+In the spirit of an open redesign, I'm constantly tweaking and changing.
 
 - 2021-05-07 · Add [Sitemap](https://a254311.sitemaphosting7.com/4229114/sitemap.html).
 - 2021-04-20 · Reorganize Posts. Add Change Log.
