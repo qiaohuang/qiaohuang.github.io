@@ -80,7 +80,7 @@ Branches allow you to have multiple versions of your work and let you track each
 - `git remote` — list the names of its remotes, `git remote -v` ("v" for "verbose") show the remote's URLs
 - `git remote add remote-name URL` — add more remotes
 - `git remote rm remote-name` — remove existing ones
-- `git pull remote branch` — get everything in `branch` in the remote repository identified by `remote` and merges it into the current branch of your local repository
+- `git pull remote branch` — get everything in `branch` in the remote repository identified by `remote` and merges it into the current branch of your local repository, `git pull` is a combination of `git fetch` and `git merge`
 - `git push remote-name branch-name` — push the changes you have made locally into a remote repository
 
 ## Useful links
