@@ -33,7 +33,7 @@ Wherever possible, I will use the `.svg` graphic format for images (like the `GI
 
 The [[everything feed](/feed.xml)] is for, well, everything.
 
-For separate feed, you can get only [`blog feed`](/blog/feed.xml), and [`projects feed`](/projects/feed.xml).
+For separate feed, you can get only [[blog feed](/blog/feed.xml)], and [[projects feed](/projects/feed.xml)].
 
 For macOS users, I recommend [Vienna](https://www.vienna-rss.com/), and [QuiteRSS](https://quiterss.org/) is the alternative for Windows.
 
