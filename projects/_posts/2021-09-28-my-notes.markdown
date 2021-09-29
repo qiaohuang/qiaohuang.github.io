@@ -2,7 +2,7 @@
 layout: post
 title:  "My Notes"
 category: Projects
-permalink: /notes
+permalink: /note
 comments: true
 ---
 
