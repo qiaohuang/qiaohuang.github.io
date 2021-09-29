@@ -6,4 +6,19 @@ permalink: /note
 comments: true
 ---
 
-Welcome to my notes.
+Welcome to __[my notes](/notes)__ — a digital garden where share notes of my learning, and seeds of my thoughts, to be cultivated in public. 🌱
+
+In fact, my notes are on another [GitHub page](https://www.uniqiao.com/notes/), which is hosted on another [GitHub repo](https://github.com/qiaohuang/notes). This post just serve as an index.
+
+Notes are not polished or comprehesive, but serve more like memory jogs. I'm sharing my notes because a). making them public may help motivate me; b). they can give anyone who cares a good sense of what I do; c). they might be useful to others.
+
+{: .box-warning}
+I'll write notes for myself "by default". So if a note seems confusing, under-explained, or don't make much sense,  I'm sorry, it's probably because I didn't write for you.
+
+<span style="color: gray">
+Written with <a href="https://foambubble.github.io/foam/">
+<img src="/projects/assets/images/foam-icon.png" alt="foam icon" title="Foam" height="24">
+</a> + <a href="https://code.visualstudio.com/">
+<img src="/projects/assets/images/vscode-icon.png" alt="vscode icon" title="VS Code" height="24">
+</a>
+</span>
