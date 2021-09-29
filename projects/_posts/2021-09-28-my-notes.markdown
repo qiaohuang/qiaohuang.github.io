@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "My Notes"
+category: Projects
+permalink: /notes
+comments: true
+---
+
+Welcome to my notes.
