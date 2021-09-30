@@ -19,7 +19,7 @@ My favorite learning resources, mostly free and carefully chosen! 🎁
 - [Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) — Cameron Davidson-Pilon
 
 ## Data Science
-- [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+- [An Introduction to Statistical Learning](https://www.statlearning.com/)
 _([Solutions](https://blog.princehonest.com/stat-learning/))_ — Essential
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 _([Solutions](https://waxworksmath.com/Authors/G_M/Hastie/WriteUp/Weatherwax_Epstein_Hastie_Solution_Manual.pdf))_ — Extremely useful
