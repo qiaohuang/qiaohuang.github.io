@@ -45,7 +45,7 @@ If you see any mistakes or want to suggest any changes, please create an [issue]
 
 In the spirit of an open redesign, I'm constantly tweaking and changing.
 
-- 2021-05-07 · Add [Sitemap](https://a254311.sitemaphosting7.com/4229114/sitemap.html).
+- 2021-05-07 · Add [Sitemap](https://a254311.sitemaphosting7.com/4247330/sitemap.html).
 - 2021-04-20 · Reorganize Posts. Add Change Log.
 - 2020-10-23 · Now with Comments! Add Staticman at Heroku.
 - 2020-10-21 · Complete Categorization. Add blog and projects categories, with separate feed.
