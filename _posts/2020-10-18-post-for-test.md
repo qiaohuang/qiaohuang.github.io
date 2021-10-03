@@ -38,9 +38,11 @@ print_hi('Qiao')
 #=> prints 'Hi, Qiao' to STDOUT.
 {% endhighlight %}
 
-### Embeddings
+## Embeddings
 
-### Comments
+<script src="https://gist.github.com/qiaohuang/c852d8ee2003bed8476f699b054798f3.js"></script>
+
+## Comments
 
 If you want to try a comment to see how it works, feel free to test it here. You'll be able to see the associated pull request in the [GitHub repo](https://github.com/qiaohuang/qiaohuang.github.io/pulls) (also provided in the confirmation message). Once I accept, your comment will appear as well. __All your information is encrypted__.
 
