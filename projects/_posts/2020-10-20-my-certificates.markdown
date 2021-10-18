@@ -16,6 +16,7 @@ comments: true
   2. [Data visualization in Excel](https://www.coursera.org/account/accomplishments/certificate/28PBSELX82RL)
   3. [Excel Power Tools for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/J757E7VERRH4)
 - [Data Analysis with Python: Zero to Pandas](https://jovian.ai/certificate/MFQTENRUGY) — freeCodeCamp, Jovian
+- [Analyzing and Visualizing Data in Looker](https://www.coursera.org/account/accomplishments/certificate/C2VY26Y6UY3J) — Google Cloud, Coursera
 
 ### Data Science
 
