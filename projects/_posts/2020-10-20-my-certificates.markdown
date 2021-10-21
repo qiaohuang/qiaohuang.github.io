@@ -54,6 +54,7 @@ comments: true
 
 ## In Progress
 
+- [ ] [Big Data Fundamentals](https://cognitiveclass.ai/learn/big-data) — IBM, Cognitive Class
 - [ ] [Data Scientist Professional](https://app.datacamp.com/certification) — DataCamp
 - [ ] [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) — HSE University, Coursera
   - [GitHub repo](https://github.com/qiaohuang/Advanced-Machine-Learning)
