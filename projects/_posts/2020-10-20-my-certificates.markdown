@@ -35,6 +35,7 @@ comments: true
 - [Data Science Math Skills](https://www.coursera.org/account/accomplishments/certificate/MDKPBC3CG8GS) — Duke University, Coursera
 - [Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/certificate/MV62WRYU8634) — Amazon Web Services, Coursera
 - [Managing Machine Learning Projects with Google Cloud](https://www.coursera.org/account/accomplishments/certificate/PUU9APXTERHG) — Google Cloud, Coursera
+- [Predict Visitor Purchases with a Classification Model in BQML](https://www.coursera.org/account/accomplishments/certificate/PD5V4ZREXBT9) — Google Cloud, Coursera
 
 ### Information Technology
 
