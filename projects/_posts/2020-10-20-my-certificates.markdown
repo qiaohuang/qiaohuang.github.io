@@ -36,6 +36,11 @@ comments: true
 - [Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/certificate/MV62WRYU8634) — Amazon Web Services, Coursera
 - [Managing Machine Learning Projects with Google Cloud](https://www.coursera.org/account/accomplishments/certificate/PUU9APXTERHG) — Google Cloud, Coursera
 - [Predict Visitor Purchases with a Classification Model in BQML](https://www.coursera.org/account/accomplishments/certificate/PD5V4ZREXBT9) — Google Cloud, Coursera
+- [Reinforcement Learning: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/MCRJ8MS5F3ZJ) — Google Cloud, Coursera
+
+### Computer Science
+
+- [Deploy a Hugo Website with Cloud Build and Firebase Pipeline](https://www.coursera.org/account/accomplishments/certificate/V37FZ6QMMH2R) — Google Cloud, Coursera
 
 ### Information Technology
 
