@@ -62,9 +62,11 @@ comments: true
 
 - [ ] [Big Data Fundamentals](https://cognitiveclass.ai/learn/big-data) — IBM, Cognitive Class
 - [ ] [Data Scientist Professional](https://app.datacamp.com/certification) — DataCamp
+- [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) — Princeton University, Coursera
 - [ ] [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) — HSE University, Coursera
   - [GitHub repo](https://github.com/qiaohuang/Advanced-Machine-Learning)
 - [ ] [Free Web Development Bootcamp](https://www.classcentral.com/study-group/webdev-bootcamp-fall-2021) — freeCodeCamp, Class Central
+- [ ] [The Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) — Google Digital Garage
 - [ ] [Writing in English at University](https://www.coursera.org/learn/writing-english-university) — Lund University, Coursera
 - [ ] [Giving Helpful Feedback](https://www.coursera.org/learn/feedback) — University of Colorado Boulder, Coursera
 - [ ] [Positive Psychology](https://www.coursera.org/learn/positive-psychology) — The University of North Carolina at Chapel Hill, Coursera
