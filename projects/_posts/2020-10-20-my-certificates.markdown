@@ -52,6 +52,7 @@ comments: true
 - [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/K287ueqBS5elY08OFJHiZg) — Google Analytics Academy, Google
 - [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/zfOtNeuTQma-STKtlFAibA) — Google Analytics Academy, Google
 - [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/mG7sSmMNLz2HQQWcER8CdJAb) — Skillshop, Google
+- [Create an A/B web page marketing test with Google Optimize](https://www.coursera.org/account/accomplishments/certificate/A6S9ZNUKQRYL) — Angelo Paolillo, Coursera Project Network
 
 ## Badges
 
