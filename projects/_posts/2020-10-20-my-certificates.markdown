@@ -7,7 +7,7 @@ comments: true
 ---
 
 
-## Completed
+## __Completed__
 
 ### Data Analytics
 
@@ -59,7 +59,7 @@ comments: true
 - [Data & AI Essentials](https://www.credly.com/badges/1529862c-0471-48f9-8d87-2753a544e2db) — IBM
 - [Docker Essentials: A Developer Introduction](https://www.credly.com/badges/c64531c8-f7b9-425c-8721-1ef66151e51a) — IBM
 
-## In Progress
+## __In Progress__
 
 - [ ] [Big Data Fundamentals](https://cognitiveclass.ai/learn/big-data) — IBM, Cognitive Class
 - [ ] [Data Scientist Professional](https://app.datacamp.com/certification) — DataCamp
