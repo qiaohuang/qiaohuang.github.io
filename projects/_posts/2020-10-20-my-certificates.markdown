@@ -63,6 +63,7 @@ comments: true
 
 - [ ] [Big Data Fundamentals](https://cognitiveclass.ai/learn/big-data) — IBM, Cognitive Class
 - [ ] [Data Scientist Professional](https://app.datacamp.com/certification) — DataCamp
+- [ ] [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) — Gooogle, Udacity
 - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) — Princeton University, Coursera
 - [ ] [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) — HSE University, Coursera
   - [GitHub repo](https://github.com/qiaohuang/Advanced-Machine-Learning)
