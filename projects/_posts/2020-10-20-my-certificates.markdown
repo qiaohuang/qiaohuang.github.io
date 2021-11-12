@@ -72,3 +72,4 @@ comments: true
 - [ ] [Writing in English at University](https://www.coursera.org/learn/writing-english-university) — Lund University, Coursera
 - [ ] [Giving Helpful Feedback](https://www.coursera.org/learn/feedback) — University of Colorado Boulder, Coursera
 - [ ] [Positive Psychology](https://www.coursera.org/learn/positive-psychology) — The University of North Carolina at Chapel Hill, Coursera
+- [ ] [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) — Yale University, Coursera
