@@ -63,7 +63,9 @@ comments: true
 
 - [ ] [Big Data Fundamentals](https://cognitiveclass.ai/learn/big-data) — IBM, Cognitive Class
 - [ ] [Data Scientist Professional](https://app.datacamp.com/certification) — DataCamp
-- [ ] [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) — Gooogle, Udacity
+- [X] [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) — Gooogle, Udacity
+  - No cert provided
+  - [GitHub repo](https://github.com/qiaohuang/A-B-Testing/tree/main/Udacity%20AB%20Testing%20by%20Google)
 - [ ] [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality) — University of Pennsylvania, Coursera
 - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) — Princeton University, Coursera
 - [ ] [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) — HSE University, Coursera
