@@ -63,7 +63,10 @@ comments: true
 
 - [ ] [Big Data Fundamentals](https://cognitiveclass.ai/learn/big-data) — IBM, Cognitive Class
 - [ ] [Data Scientist Professional](https://app.datacamp.com/certification) — DataCamp
-- [ ] [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) — Gooogle, Udacity
+- [X] [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) — Gooogle, Udacity
+  - No cert provided
+  - [GitHub repo](https://github.com/qiaohuang/A-B-Testing/tree/main/Udacity%20AB%20Testing%20by%20Google)
+- [ ] [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality) — University of Pennsylvania, Coursera
 - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) — Princeton University, Coursera
 - [ ] [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) — HSE University, Coursera
   - [GitHub repo](https://github.com/qiaohuang/Advanced-Machine-Learning)
@@ -72,3 +75,4 @@ comments: true
 - [ ] [Writing in English at University](https://www.coursera.org/learn/writing-english-university) — Lund University, Coursera
 - [ ] [Giving Helpful Feedback](https://www.coursera.org/learn/feedback) — University of Colorado Boulder, Coursera
 - [ ] [Positive Psychology](https://www.coursera.org/learn/positive-psychology) — The University of North Carolina at Chapel Hill, Coursera
+- [ ] [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) — Yale University, Coursera
