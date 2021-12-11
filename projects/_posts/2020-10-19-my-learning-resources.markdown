@@ -21,7 +21,7 @@ My favorite learning resources, mostly free and carefully chosen! 🎁
 
 ## Data Science
 
-- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+- [An Introduction to Statistical Learning](https://www.statlearning.com/) <!-- [1st edition](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) -->
 _([Solutions](https://blog.princehonest.com/stat-learning/))_ — Essential
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 _([Solutions](https://waxworksmath.com/Authors/G_M/Hastie/WriteUp/Weatherwax_Epstein_Hastie_Solution_Manual.pdf))_ — Extremely useful
