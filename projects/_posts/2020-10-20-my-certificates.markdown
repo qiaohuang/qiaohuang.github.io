@@ -76,3 +76,4 @@ comments: true
 - [ ] [Giving Helpful Feedback](https://www.coursera.org/learn/feedback) — University of Colorado Boulder, Coursera
 - [ ] [Positive Psychology](https://www.coursera.org/learn/positive-psychology) — The University of North Carolina at Chapel Hill, Coursera
 - [ ] [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) — Yale University, Coursera
+  - [Course notes](https://www.uniqiao.com/notes/Arts/classical-music)
