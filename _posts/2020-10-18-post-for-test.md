@@ -40,6 +40,8 @@ print_hi('Qiao')
 
 ## Embeddings
 
+Here's a [GitHub gist](https://gist.github.com/qiaohuang/c852d8ee2003bed8476f699b054798f3/raw/8812049291c355c738665ab0d084ac59fb0461cd/lists_to_dict.py). (Can't display the embedded code? There may be DNS spoofing/GFW in your region.)
+
 <script src="https://gist.github.com/qiaohuang/c852d8ee2003bed8476f699b054798f3.js"></script>
 
 ## Comments
