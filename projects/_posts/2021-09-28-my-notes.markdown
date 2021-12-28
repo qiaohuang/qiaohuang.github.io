@@ -15,6 +15,16 @@ Notes are not polished or comprehesive, but serve more like memory jogs. I'm sha
 {: .box-warning}
 I'll write notes for myself "by default". So if a note seems confusing, under-explained, or don't make much sense,  I'm sorry, it's probably because I didn't write for you.
 
+## Notes structrue
+
+Currently incomplete, check my [repo](https://github.com/qiaohuang/notes) for the whole folder.
+
+- [Arts](https://www.uniqiao.com/notes/Arts/)
+- [Data](https://www.uniqiao.com/notes/Data/)
+- [Digital Marketing](https://www.uniqiao.com/notes/Digital%20Marketing/)
+- [SQL](https://www.uniqiao.com/notes/SQL/)
+- [Stats](https://www.uniqiao.com/notes/Stats/)
+
 <span style="color: gray">
 Written with <a href="https://foambubble.github.io/foam/">
 <img src="/projects/assets/images/foam-icon.png" alt="foam icon" title="Foam" height="24">

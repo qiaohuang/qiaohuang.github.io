@@ -6,6 +6,7 @@ permalink: /certificates
 comments: true
 ---
 
+Certificates are mainly from MOOCs, just serve as proofs of my learning accomplishment. 🔰
 
 ## __Completed__
 
