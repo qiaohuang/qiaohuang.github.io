@@ -27,6 +27,10 @@ _([Solutions](https://blog.princehonest.com/stat-learning/))_ — Essential
 _([Solutions](https://waxworksmath.com/Authors/G_M/Hastie/WriteUp/Weatherwax_Epstein_Hastie_Solution_Manual.pdf))_ — Extremely useful
 - [Advanced Machine Learning Specialization on Coursera](https://www.coursera.org/specializations/aml) — A deeper understanding
 
+## Practical Data Science
+
+- [Executive Data Science](https://leanpub.com/eds) — Leanpub
+
 ## Computer Science
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT
