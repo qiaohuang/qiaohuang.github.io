@@ -10,7 +10,7 @@ Welcome to __[my notes](/notes)__ — a digital garden where share notes of my l
 
 In fact, my notes are on another [GitHub page](https://www.uniqiao.com/notes/), which is hosted on another [GitHub repo](https://github.com/qiaohuang/notes). This post just serve as an index.
 
-Notes are not polished or comprehesive, but serve more like memory jogs. I'm sharing my notes because a). making them public may help motivate me; b). they can give anyone who cares a good sense of what I do; c). they might be useful to others.
+Notes are not polished or comprehensive, but serve more like memory jogs. I'm sharing my notes because a). making them public may help motivate me; b). they can give anyone who cares a good sense of what I do; c). they might be useful to others.
 
 {: .box-warning}
 I'll write notes for myself "by default". So if a note seems confusing, under-explained, or don't make much sense,  I'm sorry, it's probably because I didn't write for you.
