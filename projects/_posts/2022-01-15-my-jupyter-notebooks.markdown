@@ -6,7 +6,7 @@ permalink: /jupyter
 comments: true
 ---
 
-Welcome to __[my Jupyter Notebooks](https://nb.uniqiao.com/)__ — a site under a new subdomain: *<__<span style="color: darkorange">nb</span>__.uniQiao.com>*
+Welcome to __[my Jupyter Notebooks](https://nb.uniqiao.com/)__ 📙 — a site under a new subdomain: *<__<span style="color: darkorange">nb</span>__.uniQiao.com>*
 
 ![flow-diagram](https://nb.uniqiao.com/images/diagram.png)
 
